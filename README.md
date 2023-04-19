@@ -1,6 +1,5 @@
 # 👋  Hello everybody!
 
-- 👀 I’m interested in Frontend side and Javascript stack
 - 🌎 I am constantly looking for new challenges to keep growing professionally and be able to apply them every day.
 - 📫 How to reach me? I invite you to connect with me through my mail: leandrobordondev@gmail.com
 ***
