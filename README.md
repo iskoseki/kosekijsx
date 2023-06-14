@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/leandro-bordon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofmagon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC5lN0bOiFRuigjBBIjBE_nA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sofmagon" height="30" width="40" /></a>
-<a href="https://instagram.com/sofmagon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofmagon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/koseki.wav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofmagon" height="30" width="40" /></a>
 </p>
 
 <!---
