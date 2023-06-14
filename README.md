@@ -1,7 +1,9 @@
 # 👋  Hello everybody!
 
  - 🌎 I am constantly looking for new challenges to keep growing professionally and be able to apply them every day.
- - 📫 How to reach me? I invite you to connect with me through my mail: leandrobordondev@gmail.com
+ - ✨ I am constantly looking for new challenges to keep growing professionally and be able to apply them every day.
+  
+ 
 ***
 
 <h3 align="left">Connect with me:</h3>
