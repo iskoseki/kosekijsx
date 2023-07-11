@@ -1,7 +1,7 @@
 # 👋  Hello everybody!
 
-### I'm constantly looking for new challenges to keep growing professionally 💪🏼 to apply them every day ✨.
- <h3 align="left">Relevant languages and tools:</h3>
+## I'm constantly looking for new challenges to keep growing professionally 💪🏼 to apply them every day ✨.
+ <p align="left">Relevant languages and tools:</p>
 <p align="left"> 
 
 
