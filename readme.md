@@ -1,6 +1,6 @@
-# 👋  Hello everybody!
+## 👋  Hello everybody!
 
-## I'm constantly looking for new challenges to keep growing professionally 💪🏼 to apply them every day ✨.
+#### I'm constantly looking for new challenges to keep growing professionally 💪🏼 to apply them every day ✨.
  <p align="left">Relevant languages and tools:</p>
 <p align="left"> 
 
