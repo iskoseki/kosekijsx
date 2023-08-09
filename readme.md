@@ -1,9 +1,54 @@
-## 👋  Hello everybody!
+## 👋 Hello folks  
 
+***
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/leandro-bordon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofmagon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC5lN0bOiFRuigjBBIjBE_nA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sofmagon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/koseki.wav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofmagon" height="30" width="40" /></a>
+</p>
+
+# About Me
+
+I'm a nerd on the internet, with a moderate amount of programming experience.
+
+I started learning back in 2017 and then continued advancing my knowledge and skills.
+
+If I'm not working, I spend a large amount of my spare time working on various personal projects.
+
+## I use...
+
+<!--start:use-->
+- NodeJS
+- TypeScript
+- React.js
+<!--end:use-->
+
+## I'm learning...
+
+<!--start:learning-->
+- Swift
+- Next.js
+<!--end:learning-->
+
+## Stats
+![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ProtogenDelta&show_icons=true&theme=gruvbox&layout=compact)
+
+
+
+<!-- [twitter-img]: https://img.shields.io/twitter/follow/TheDeltaProto?color=1d9bf0&label=Follow&logo=twitter&style=for-the-badge -->
+[twitter-img]: https://img.shields.io/badge/follow-%40LeoCatsune-1DA1F2?logo=twitter&style=for-the-badge
+[twitter-url]: https://twitter.com/LeoCatsune
+[twitch-img]: https://img.shields.io/twitch/status/leocatto?color=9046ff&label=Twitch&logo=twitch&style=for-the-badge
+[twitch-url]: https://twitch.tv/LeoCatto
+[youtube-img]: https://img.shields.io/youtube/channel/subscribers/UCR_rDSaMq_2LvlyKfCKS2uw?label=Subscribe&logo=youtube&logoColor=f00&style=for-the-badge
+[youtube-url]: https://www.youtube.com/channel/@protodelta?sub_confirmation=1
+[keybase-img]: https://img.shields.io/keybase/pgp/protodelta?logo=keybase&style=for-the-badge
+[keybase-url]: https://keybase.io/protodelta
+<!-- [linktree-img]: https://img.shields.io/badge/LinkTree-Visit-39e09b?logo=linktree&style=for-the-badge -->
+<!-- [linktree-url]: https://linktr.ee/deltaproto -->
 #### I'm constantly looking for new challenges to keep growing professionally 💪🏼 to apply them every day ✨.
- <p align="left">Relevant languages and tools:</p>
-<p align="left"> 
-
 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
@@ -35,14 +80,7 @@
 
   
  
-***
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/leandro-bordon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofmagon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC5lN0bOiFRuigjBBIjBE_nA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sofmagon" height="30" width="40" /></a>
-<a href="https://www.instagram.com/koseki.wav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofmagon" height="30" width="40" /></a>
-</p>
 
 <!---
 kosekijsx/kosekijsx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
