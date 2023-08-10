@@ -1,8 +1,6 @@
-## 👋 Hello folks  
+## 👋 Hello there! 
 
-***
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social media:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/leandro-bordon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofmagon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC5lN0bOiFRuigjBBIjBE_nA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sofmagon" height="30" width="40" /></a>
@@ -11,75 +9,14 @@
 
 # About Me
 
-I'm a nerd on the internet, with a moderate amount of programming experience.
+I'm a nerd on the internet with programming experience.
 
-I started learning back in 2017 and then continued advancing my knowledge and skills.
+I started learning in 2017 and then continued advancing my knowledge and skills.
 
 If I'm not working, I spend a large amount of my spare time working on various personal projects.
 
-## I use...
-
-<!--start:use-->
-- NodeJS
-- TypeScript
-- React.js
-<!--end:use-->
-
-## I'm learning...
-
-<!--start:learning-->
-- Swift
-- Next.js
-<!--end:learning-->
-
 ## Stats
-![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ProtogenDelta&show_icons=true&theme=gruvbox&layout=compact)
-
-
-
-<!-- [twitter-img]: https://img.shields.io/twitter/follow/TheDeltaProto?color=1d9bf0&label=Follow&logo=twitter&style=for-the-badge -->
-[twitter-img]: https://img.shields.io/badge/follow-%40LeoCatsune-1DA1F2?logo=twitter&style=for-the-badge
-[twitter-url]: https://twitter.com/LeoCatsune
-[twitch-img]: https://img.shields.io/twitch/status/leocatto?color=9046ff&label=Twitch&logo=twitch&style=for-the-badge
-[twitch-url]: https://twitch.tv/LeoCatto
-[youtube-img]: https://img.shields.io/youtube/channel/subscribers/UCR_rDSaMq_2LvlyKfCKS2uw?label=Subscribe&logo=youtube&logoColor=f00&style=for-the-badge
-[youtube-url]: https://www.youtube.com/channel/@protodelta?sub_confirmation=1
-[keybase-img]: https://img.shields.io/keybase/pgp/protodelta?logo=keybase&style=for-the-badge
-[keybase-url]: https://keybase.io/protodelta
-<!-- [linktree-img]: https://img.shields.io/badge/LinkTree-Visit-39e09b?logo=linktree&style=for-the-badge -->
-<!-- [linktree-url]: https://linktr.ee/deltaproto -->
-#### I'm constantly looking for new challenges to keep growing professionally 💪🏼 to apply them every day ✨.
-
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="20" height="20"/> </a>
-   <a style="color:blue;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="javascript" width="20" height="20"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="javascript" width="20" height="20"/> </a>
-   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="javascript" width="20" height="20"/> </a>
-   <a href="" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="javascript" width="20" height="20"/> </a>
- 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> 
-
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/> </a>
-
-</p>
-
-
-  
- 
+![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=kosekijsx&show_icons=true&theme=gruvbox&layout=compact)
 
 
 <!---
